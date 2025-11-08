@@ -25,6 +25,7 @@ the program generates a log (log.txt) inside the "curated" folder
 
 MIT License
 
+Copyright (c) 2025 otis
 Copyright (c) 2025 Copperware99
 Copyright (c) 2025 Chillpill649
 
